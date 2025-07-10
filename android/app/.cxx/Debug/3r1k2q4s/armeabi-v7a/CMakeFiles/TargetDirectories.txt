@@ -1,0 +1,2 @@
+C:/MU/Mini Project/onlineexamsystem/android/app/.cxx/Debug/3r1k2q4s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/MU/Mini Project/onlineexamsystem/android/app/.cxx/Debug/3r1k2q4s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
